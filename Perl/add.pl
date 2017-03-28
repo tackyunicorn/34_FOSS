@@ -1,4 +1,4 @@
-print "Following is a program to add two numbers \n\n";
+print "\nFollowing is a program to add two numbers \n\n";
 
 print "Enter the first number: \n";
 $a = <STDIN>;

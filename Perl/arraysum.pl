@@ -1,4 +1,4 @@
-print "Folowing is a program to find the sum of elements in an array\n";
+print "\nFolowing is a program to find the sum of elements in an array\n\n";
 
 print "Enter the number of elements in the array: \n";
 $n = <STDIN>;

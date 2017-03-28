@@ -1,4 +1,4 @@
-print "Following is a program to perform linear search on an array \n";
+print "\nFollowing is a program to perform linear search on an array \n\n";
 
 print "Enter the number of elements in the array: \n";
 $n = <STDIN>;

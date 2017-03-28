@@ -1,4 +1,4 @@
-print "Following is a program to find the factorial of a number \n";
+print "\nFollowing is a program to find the factorial of a number \n\n";
 
 print "Enter the number: \n";
 $num = <STDIN>;

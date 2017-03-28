@@ -1,4 +1,4 @@
-print "Following is a program to find the largest of three numbers \n";
+print "\nFollowing is a program to find the largest of three numbers \n\n";
 
 print "Enter the first number: \n";
 $a = <STDIN>;
