@@ -1,0 +1,6 @@
+Brand Monday Tuesday Wednesday
+Samsung 100 60 140
+Asus 120 10 70
+Sony 130 80 30
+LG 90 40 110
+Oppo 50 30 150
