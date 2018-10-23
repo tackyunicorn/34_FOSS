@@ -1,0 +1,39 @@
+<html>
+<head> 
+	<title> Form </title> 
+</head>
+<body>
+	<h1> Registration </h1>
+	<form action="form.php" method="GET">
+	Roll Number <input type="number" name="rollnumber"/><br><br>
+	Name <input type="text" name="name"/><br><br>
+	Semester
+	<select name="semester">
+		<option value=2>S2</option>
+		<option value=4>S4</option>
+		<option value=6>S6</option>
+		<option value=8>S8</option>
+	</select><br><br>
+	Branch
+	<select name="branch">
+		<option value="CSE">CSE</option>
+		<option value="IT">IT</option>
+		<option value="MECH">MECH</option>
+		<option value="CIVIL">CIVIL</option>
+		<option value="EEE">EEE</option>
+		<option value="ECE">ECE</option>
+		<option value="AEI">AEI</option>
+	</select><br><br>
+	Gender<br>
+		<input type="radio" name="gender" value="male" checked/>Male<br>
+		<input type="radio" name="gender" value="female"/>Female<br>
+		<input type="radio" name="gender" value="other"/>Other<br><br>
+	Marks<br>
+		Mark1 <input type="number" name="mark1"/><br>
+		Mark2 <input type="number" name="mark2"/><br>
+		Mark3 <input type="number" name="mark3"/><br><br>
+
+	<input type="submit" value="Submit"/><br>
+	</form>
+</body>
+</html>

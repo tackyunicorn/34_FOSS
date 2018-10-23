@@ -1,0 +1,6 @@
+Event Rajputs Aryans Mughals
+A f s t
+B s t f
+C s f t
+D f t s
+E t s f
